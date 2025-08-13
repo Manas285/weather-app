@@ -1,0 +1,1 @@
+This is a simple and interactive weather app designed to provide users with real-time weather details for any city in the world. Built using HTML, CSS, and JavaScript, the app allows users to search for a city and instantly view its current temperature, humidity, and weather conditions.
